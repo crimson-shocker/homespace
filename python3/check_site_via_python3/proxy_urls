@@ -1,3 +1,2 @@
-fbps31.fbtools.cc:8080:fbps31
-fbps32.fbtools.cc:8080:fbps32
-fbps33.fbtools.cc:8080:fbps33
+address:port:nameproxy
+
