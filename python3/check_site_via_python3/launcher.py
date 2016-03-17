@@ -51,3 +51,4 @@ for line in open(do_list):
 #<run>
 	os.system("%(ADM_PRIV_PREFIX)s %(cmd)s" %vars())
 #</run>	
+#
